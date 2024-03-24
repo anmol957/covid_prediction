@@ -1,6 +1,4 @@
-# covid_prediction
-
-Project Proposal for COVID19 prediction
+# Project Proposal for COVID-19 Prediction
 
 
 1.Questions
